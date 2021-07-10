@@ -1,4 +1,4 @@
-# git-
+# git- 사용법
 git 파일 가져오기 (clone: 파일 추가)
 - git clone (파일 주소)
 
@@ -22,4 +22,4 @@ git branch 가져오기
 git remote (저장소)
 - git remote -v  // 저장소 확인
 - git remote rm (저장소 이름)  // 저장소 삭제
-- git remote add (저장소 이름) (주소) // 저장소 만들기
+- git remote add (저장소 이름) (주소) // 저장소 만들기 
