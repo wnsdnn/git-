@@ -16,7 +16,7 @@ git branch
 
 git branch 가져오기
 - 1. git remote update
-- 2. git remote -r   // 가져올수 있는 branch 확인
+- 2. git branch -r   // 가져올수 있는 branch 확인
 - 3. git checkout -t (branch)
  
 git remote (저장소)
